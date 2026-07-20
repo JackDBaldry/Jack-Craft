@@ -58,10 +58,14 @@ Player Scores
 
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
 
-## Challenges
+## Challenges and Reflections
 
 TO DO
 
 * First large javascript project
   
 * First graphical games using sprites, event handling, collisions, etc.
+  
+* Testing using a gameplay checklist and test plan
+
+* What I would do differently next time
