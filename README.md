@@ -48,11 +48,14 @@ Player Scores
 
 [docs/JackCraftTestPlan.md](docs/JackCraftTestPlan.md) - Test Plan Results TO DO
 
+[docs/BlackBoxTesting.md](docs/BlackBoxTesting.md) - Black Box Testing Results TO DO
 
-**Screenshots of Gameplay**
+
+**Gameplay**
 
 [Screenshots of Gameplay (raw images)](images)
 
+[Screen Capture of Gameplay (raw images)](TO DO) TO DO
 
 ## License
 
