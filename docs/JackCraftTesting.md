@@ -1,4 +1,4 @@
-# JackCraft Gameplay Testing 
+# Jack Craft Gameplay Testing 
 
 ## T1. Game starts correctly (1 mark)
 
