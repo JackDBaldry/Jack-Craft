@@ -44,7 +44,9 @@ Player Scores
 
 **Testing**
 
-[docs/JackCraftTesting.md](docs/JackCraftTesting.md) - Gameplay Test Results of First Draft
+[docs/JackCraftTesting.md](docs/JackCraftTesting.md) - Gameplay Test Results
+
+[docs/JackCraftTestPlan.md](docs/JackCraftTestPlan.md) - Test Plan Results TO DO
 
 
 **Screenshots of Gameplay**
