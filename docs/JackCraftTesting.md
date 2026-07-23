@@ -80,8 +80,6 @@ Expected: Game is stopped or clearly “ended” (no continued scoring/health ch
 
 Result: 0
 
-<img width="1926" height="717" alt="Demadistricts" src="https://github.com/user-attachments/assets/4b9b7ecc-31af-4563-9af5-6e7402e5d47e" />
-
 After health hits 0 and death message appears the gameplay continues meaning the score can continue to go up, the health can go into negative and the health can also go back into positive so you un-die. 
 
 ## Full Results
