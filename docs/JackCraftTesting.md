@@ -112,5 +112,3 @@ Health and score systems
 
 Sprite movement and respawning
 
-## Issues
-TO DO
