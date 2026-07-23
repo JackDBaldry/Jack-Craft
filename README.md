@@ -51,11 +51,11 @@ Player Scores
 [docs/BlackBoxTesting.md](docs/BlackBoxTesting.md) - Black Box Testing Results TO DO
 
 
-**Gameplay**
+## Gameplay
 
 [Screenshots of Gameplay (raw images)](images)
 
-## Screen Capture of Gameplay
+**Screen Capture of Gameplay**
 
 Gameplay of the user winning (getting 50 score) https://www.youtube.com/watch?v=Lxd8FEWpnGU&list=PLBwSCtBQjqoQ
 
