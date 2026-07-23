@@ -9,8 +9,6 @@ This project demonstrates key game programming concepts such as conditionals, fu
 
 ## Features
 
-TO-Do
-
 Sprites
 
 This screenshot shows how the fox was created and how you can edit the fox.
