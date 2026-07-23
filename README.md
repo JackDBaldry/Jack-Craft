@@ -9,7 +9,7 @@ This project demonstrates key game programming concepts such as conditionals, fu
 
 ## Features
 
-Sprites
+**Sprites**
 
 This screenshot shows how the fox was created and how you can edit the fox.
 
@@ -19,13 +19,13 @@ This screenshot shows how sprites are declared in the code.
 
 <img width="1265" height="415" alt="Foxsprite2" src="https://github.com/user-attachments/assets/9fc3add2-f3fb-48e0-8975-93939c2f2d7a" />
 
-Collisions
+**Collisions**
 
 This shows the code for how collisions work.
 
 <img width="676" height="180" alt="Collision" src="https://github.com/user-attachments/assets/fbd858f4-7388-4178-98a0-85fce7a626f7" />
 
-Player Scores and Lives
+**Player Scores and Lives**
 
 This shows what it looks like to have a bad score and low health (so the player is losing).
 
