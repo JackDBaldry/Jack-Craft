@@ -57,6 +57,10 @@ Player Scores
 
 [Screen Capture of Gameplay (raw images)](TO DO) TO DO
 
+Gameplay of the user winning (getting 50 score) https://www.youtube.com/watch?v=Lxd8FEWpnGU&list=PLBwSCtBQjqoQ
+
+Gameplay of the user losing (Health reaches 0) https://www.youtube.com/watch?v=pMBQ2m92CQ8&list=PLBwSCtBQjqoQ&index=2
+
 ## License
 
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
