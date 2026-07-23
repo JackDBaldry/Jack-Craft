@@ -48,7 +48,7 @@ Player Scores
 
 [docs/JackCraftTestPlan.md](docs/JackCraftTestPlan.md) - Test Plan Results
 
-[docs/BlackBoxTesting.md](docs/BlackBoxTesting.md) - Black Box Testing Results TO DO
+[docs/BlackBoxTesting.md](docs/BlackBoxTesting.md) - Black Box Testing Results
 
 
 ## Gameplay
