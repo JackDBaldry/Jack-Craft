@@ -55,7 +55,7 @@ Player Scores
 
 [Screenshots of Gameplay (raw images)](images)
 
-[Screen Capture of Gameplay (raw images)](TO DO) TO DO
+Screen Capture of Gameplay
 
 Gameplay of the user winning (getting 50 score) https://www.youtube.com/watch?v=Lxd8FEWpnGU&list=PLBwSCtBQjqoQ
 
