@@ -1,4 +1,4 @@
-# TO DO Jack Craft Test Plan
+# Jack Craft Test Plan
 
 ## Test No:  1
 
