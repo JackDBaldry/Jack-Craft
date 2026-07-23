@@ -46,7 +46,7 @@ Player Scores
 
 [docs/JackCraftTesting.md](docs/JackCraftTesting.md) - Gameplay Test Results
 
-[docs/JackCraftTestPlan.md](docs/JackCraftTestPlan.md) - Test Plan Results TO DO
+[docs/JackCraftTestPlan.md](docs/JackCraftTestPlan.md) - Test Plan Results
 
 [docs/BlackBoxTesting.md](docs/BlackBoxTesting.md) - Black Box Testing Results TO DO
 
@@ -55,7 +55,7 @@ Player Scores
 
 [Screenshots of Gameplay (raw images)](images)
 
-Screen Capture of Gameplay
+## Screen Capture of Gameplay
 
 Gameplay of the user winning (getting 50 score) https://www.youtube.com/watch?v=Lxd8FEWpnGU&list=PLBwSCtBQjqoQ
 
