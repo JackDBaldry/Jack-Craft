@@ -72,10 +72,10 @@ This project is licensed under the Apache License 2.0 – see the [LICENSE](LICE
 
 TO DO
 
-* First large javascript project
+* First large javascript project. Since it was my first javascript project, it made it difficult. Code.org showed me how to use javascript and all the different aspects which is what helped me the most.
   
-* First graphical games using sprites, event handling, collisions, etc.
+* First graphical games using sprites, event handling, collisions, etc. Since I had no experience with sprites, event handling, collisions, etc, I again had to learn how to use them in the way that was applicable for this project. Code.org also helped when it came to this as it was set out and explained in a way that was easy to understand.
   
-* Testing using a gameplay checklist and test plan
+* Testing using a gameplay checklist and test plan. I used a gameplay checklist and a test plan to make sure I added all the features in the code and to then check they all worked in the correct way.
 
-* What I would do differently next time
+* What I would do differently next time. For my next project, I would make sure that at the very start, I had more of a plan and I better written of idea of what I wanted the project to look like at the end.
