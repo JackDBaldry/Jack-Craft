@@ -2,9 +2,7 @@
 
 Edexcel iGCSE coursework graphical game project in JavaScript.
 
-TO DO - extend explanation of project.
-
-This project demonstrates key game programming concepts such as conditionals, functions, backgrounds, sprites, collisions, event handling, player lives and player scores. It was written as a Code.org GameLab JavaScript project.
+This project is a simple survival and collection game created using Code.org GameLab and JavaScript. The player controls a fox, collecting carrots to increase their score and restore health while avoiding hazards such as rocks, arrows, and a bear. The project demonstrates core game programming concepts including conditionals, functions, sprites, collision detection, keyboard event handling, health systems, scoring, and game-over states. It was created as a practical demonstration of how these programming concepts can be combined to build an interactive 2D game.
 
 
 ## Features
