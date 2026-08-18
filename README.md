@@ -15,6 +15,11 @@ This screenshot shows how the fox was created and how you can edit the fox.
 
 This screenshot shows how sprites are declared in the code.
 
+
+SUGGESTED CHANGE
+
+This code shows how the fox, rock and bear sprites are created, assigned animations and scaled for the game.
+
 <img width="1265" height="415" alt="Foxsprite2" src="https://github.com/user-attachments/assets/9fc3add2-f3fb-48e0-8975-93939c2f2d7a" />
 
 **Collisions**
