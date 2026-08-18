@@ -79,3 +79,16 @@ TO DO
 * Testing using a gameplay checklist and test plan. I used a gameplay checklist and a test plan to make sure I added all the features in the code and to then check they all worked in the correct way.
 
 * What I would do differently next time. For my next project, I would make sure that at the very start, I had more of a plan and I better written of idea of what I wanted the project to look like at the end.
+
+
+SUGGESTED CHANGES
+
+ 
+This was my first large JavaScript project, which was an interesting challenge. I learned the fundamentals of graphical game development during a Code.org course called [Self Paced Introduction to Game Lab](https://studio.code.org/courses/csd3-virtual/units/1). It showed me how to use JavaScript skills I had learned on other Code.org courses as well as new skills to develop this interactive program.
+  
+
+Since I had no experience with sprites, event handling, collisions, and other graphical game techniques I had to learn how to implement these features effectively within my own game. The Code.org course helped with because the concepts were explained clearly and easy to understand.
+  
+I used a gameplay checklist and a test plan to make sure I had implemented all the required features and that they worked correctly. I followed the Edexcel framework to do this.
+
+I can see some things I would like to adapt in my next project. I will make sure that at the very start to have a more thorough plan and more detailed design of what I want the project to look like at the end. This will make testing simpler and allow me to ensure I reach all of my goals clearly. Overall I really enjoyed designing the game and I look forward to the next one.
