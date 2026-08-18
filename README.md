@@ -1,3 +1,9 @@
+>*NA SUGGESTION: ADD SOME CONTENT BADGES TO LOOK PRO*
+>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](LICENSE)
+
+
 # Jack Craft
 
 Edexcel iGCSE coursework graphical game project in JavaScript.
