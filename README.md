@@ -4,7 +4,10 @@ Edexcel iGCSE coursework graphical game project in JavaScript.
 
 This project is a simple survival and collection game created using Code.org GameLab and JavaScript. The player controls a fox, collecting carrots to increase their score and restore health while avoiding hazards such as rocks, arrows, and a bear. The project demonstrates core game programming concepts including conditionals, functions, sprites, collision detection, keyboard event handling, health systems, scoring, and game-over states. It was created as a practical demonstration of how these programming concepts can be combined to build an interactive 2D game.
 
-
+>*NA SUGGESTION: AS ITS NOT RUNNABLE OUTSIDE OF CODE.ORG EXPLAIN THAT HERE BEFORE LISTING FEATURES*
+> E.g.
+>## Running the game
+> Currently the game uses proprietary sprites from Code.org so isn't runnable outside of my private Code.org account. I have included videos of gameplay here [Gameplay](README.md#Gameplay)
 ## Features
 
 **Sprites**
@@ -16,9 +19,9 @@ This screenshot shows how the fox was created and how you can edit the fox.
 This screenshot shows how sprites are declared in the code.
 
 
-SUGGESTED CHANGE
-
-This code shows how the fox, rock and bear sprites are created, assigned animations and scaled for the game.
+>SUGGESTED CHANGE
+>
+>This code shows how the fox, rock and bear sprites are created, assigned animations and scaled for the game.
 
 <img width="1265" height="415" alt="Foxsprite2" src="https://github.com/user-attachments/assets/9fc3add2-f3fb-48e0-8975-93939c2f2d7a" />
 
@@ -26,9 +29,9 @@ This code shows how the fox, rock and bear sprites are created, assigned animati
 
 This shows the code for how collisions work.
 
-SUGGESTED CHANGE
-
-This code detects a collision between the fox and a rock, reduces the player's health, and repositions the rock.
+>SUGGESTED CHANGE
+>
+>This code detects a collision between the fox and a rock, reduces the player's health, and repositions the rock.
 
 <img width="676" height="180" alt="Collision" src="https://github.com/user-attachments/assets/fbd858f4-7388-4178-98a0-85fce7a626f7" />
 
@@ -87,17 +90,15 @@ TO DO
 * What I would do differently next time. For my next project, I would make sure that at the very start, I had more of a plan and I better written of idea of what I wanted the project to look like at the end.
 
 
-SUGGESTED CHANGES
-
- 
-This was my first large JavaScript project, which was an interesting challenge. I learned the fundamentals of graphical game development during a Code.org course called [Self Paced Introduction to Game Lab](https://studio.code.org/courses/csd3-virtual/units/1). It showed me how to use JavaScript skills I had learned on other Code.org courses as well as new skills to develop this interactive program.
-  
-
-Since I had no experience with sprites, event handling, collisions, and other graphical game techniques I had to learn how to implement these features effectively within my own game. The Code.org course helped with this because the concepts were explained clearly and were easy to understand.
-  
-I used a gameplay checklist and a test plan to make sure I had implemented all the required features and that they worked correctly. I followed the Edexcel framework to do this.
-
-I can see some things I would like to adapt in my next project. I will make sure that at the very start to have a more thorough plan and more detailed design of what I want the project to look like at the end. This will make testing simpler and allow me to ensure I reach all of my goals clearly. Overall I really enjoyed designing the game and I look forward to the next one.
+>SUGGESTED CHANGES
+>
+>This was my first large JavaScript project, which was an interesting challenge. I learned the fundamentals of graphical game development during a Code.org course called [Self Paced Introduction to Game Lab](https://studio.code.org/courses/csd3-virtual/units/1). It showed me how to use JavaScript skills I had learned on other Code.org courses as well as new skills to develop this interactive program.
+> 
+>Since I had no experience with sprites, event handling, collisions, and other graphical game techniques I had to learn how to implement these features effectively within my own game. The Code.org course helped with this because the concepts were explained clearly and were easy to understand.
+>  
+>I used a gameplay checklist and a test plan to make sure I had implemented all the required features and that they worked correctly. I followed the Edexcel framework to do this.
+>
+>I can see some things I would like to adapt in my next project. I will make sure that at the very start to have a more thorough plan and more detailed design of what I want the project to look like at the end. This will make testing simpler and allow me to ensure I reach all of my goals clearly. Overall I really enjoyed designing the game and I look forward to the next one.
 
 
 ## License
