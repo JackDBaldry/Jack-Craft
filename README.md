@@ -93,7 +93,7 @@ SUGGESTED CHANGES
 This was my first large JavaScript project, which was an interesting challenge. I learned the fundamentals of graphical game development during a Code.org course called [Self Paced Introduction to Game Lab](https://studio.code.org/courses/csd3-virtual/units/1). It showed me how to use JavaScript skills I had learned on other Code.org courses as well as new skills to develop this interactive program.
   
 
-Since I had no experience with sprites, event handling, collisions, and other graphical game techniques I had to learn how to implement these features effectively within my own game. The Code.org course helped with because the concepts were explained clearly and easy to understand.
+Since I had no experience with sprites, event handling, collisions, and other graphical game techniques I had to learn how to implement these features effectively within my own game. The Code.org course helped with this because the concepts were explained clearly and easy to understand.
   
 I used a gameplay checklist and a test plan to make sure I had implemented all the required features and that they worked correctly. I followed the Edexcel framework to do this.
 
