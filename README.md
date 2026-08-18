@@ -21,6 +21,10 @@ This screenshot shows how sprites are declared in the code.
 
 This shows the code for how collisions work.
 
+SUGGESTED CHANGE
+
+This code detects a collision between the fox and a rock, reduces the player's health, and repositions the rock.
+
 <img width="676" height="180" alt="Collision" src="https://github.com/user-attachments/assets/fbd858f4-7388-4178-98a0-85fce7a626f7" />
 
 **Player Scores and Lives**
