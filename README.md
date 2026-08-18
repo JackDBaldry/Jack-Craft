@@ -73,9 +73,6 @@ Gameplay of the user winning (getting 50 score) https://www.youtube.com/watch?v=
 
 Gameplay of the user losing (Health reaches 0) https://www.youtube.com/watch?v=pMBQ2m92CQ8&list=PLBwSCtBQjqoQ&index=2
 
-## License
-
-This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
 
 ## Challenges and Reflections
 
@@ -101,3 +98,8 @@ Since I had no experience with sprites, event handling, collisions, and other gr
 I used a gameplay checklist and a test plan to make sure I had implemented all the required features and that they worked correctly. I followed the Edexcel framework to do this.
 
 I can see some things I would like to adapt in my next project. I will make sure that at the very start to have a more thorough plan and more detailed design of what I want the project to look like at the end. This will make testing simpler and allow me to ensure I reach all of my goals clearly. Overall I really enjoyed designing the game and I look forward to the next one.
+
+
+## License
+
+This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
