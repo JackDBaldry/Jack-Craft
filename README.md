@@ -32,7 +32,7 @@ This code detects a collision between the fox and a rock, reduces the player's h
 
 <img width="676" height="180" alt="Collision" src="https://github.com/user-attachments/assets/fbd858f4-7388-4178-98a0-85fce7a626f7" />
 
-**Player Scores and Lives**
+**Player Scores and Health**
 
 This shows what it looks like to have a bad score and low health (so the player is losing).
 
